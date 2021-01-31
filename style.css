@@ -19,7 +19,7 @@ html {
 }
 
 body {
-    background: #f0f2f5;
+    background: rgb(179, 172, 172);
     font-family: 'Poppins', sans-serif;
 }
 
@@ -107,7 +107,7 @@ button:hover {
 /* Header */
 
 header {
-    background: #2D4A22;
+    background: #2e2b2b;
     padding: 2rem 0 10rem;
     text-align: center;
 }
