@@ -19,7 +19,7 @@ html {
 }
 
 body {
-    background: rgb(179, 172, 172);
+    background: #f0f2f5;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -169,7 +169,6 @@ header {
 #data-table {
     width: 100%;
     border-spacing: 0 0.5rem;
-    color: #969cb3;
 }
 
 table thead tr th:first-child,
@@ -190,6 +189,7 @@ table th {
 table td {
     background: white;
     padding: 1rem 2rem;
+    text-align: center;
 }
 
 table tr {
